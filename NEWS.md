@@ -1,3 +1,7 @@
+# kokudosuuchi 0.4.1
+
+* Fix test errors on CRAN
+
 # kokudosuuchi 0.4.0
 
 * Added a `NEWS.md` file to track changes to the package.

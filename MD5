@@ -1,7 +1,7 @@
-ac7344cd108964f40cd66e3a4446dd0c *DESCRIPTION
+c01ebd23a1a26e3d5f2af07f3b5a24da *DESCRIPTION
 df95a7e8348479c2ca67c8ba0725c5ac *LICENSE
 76af3b675583ae3583c5f843c0ca5656 *NAMESPACE
-f43ca2d6fb1ed1081b97c8173b0b262a *NEWS.md
+9f5b660f6e25a5f07c9e25d0456a9809 *NEWS.md
 5899fb0c586b49ca73eae3e1a31195a4 *R/KSJPrefCodes.R
 ae72927ed9102a65d8b733193fd2593a *R/choose_prefecture_code.R
 f09005aa3c1d1c160bfa578520a544de *R/data.R
@@ -13,7 +13,7 @@ b3a9ff3e96be2fa1cac7dd0af7e439d8 *R/sysdata.rda
 3559789880a21a51a7905848b5ac4119 *R/translateKSJData.R
 d5c5cf5adb3008df1059fb62751170e2 *R/util.R
 916b3f0fc81ade1e6ae63231d91f2b66 *R/zzz.R
-af575486e71b6c7063287ac067ae28fd *README.md
+1aa66d30f62aec7a8713d3ce372ef0e0 *README.md
 04058e3e80e60cbc4b1e4085199167aa *data/KSJMetadata_code.rda
 5dea022482dbb2f1db1cca81b53e2ee8 *data/KSJMetadata_code_correspondence_tables.rda
 6a6b09bf5860f378113e0ff8662c1b26 *data/KSJMetadata_code_year_cols.rda
@@ -28,8 +28,8 @@ bb66107c79f053238a0543942758b59a *man/getKSJSummary.Rd
 47b9bb1ff1be3e42f787f8f164ef297b *man/getKSJURL.Rd
 21a66a8c2477c1cd0f0d4e5022dfb59f *man/kokudosuuchi.Rd
 28878dfcffc168dfa91d06874a5ac3a7 *tests/testthat.R
-771eaa3b7e8a9819817024c91780d80f *tests/testthat/test-API.R
-f8b0559ab125aa4c4c81847d6bf769e2 *tests/testthat/test-getData.R
+17c82c220bfb29103cb8493f3eededf8 *tests/testthat/test-API.R
+76afd8ef0eee2d5c87067e8be574e93b *tests/testthat/test-getData.R
 1799c8326a71fedfc8ec15e709385686 *tests/testthat/test-is_file.R
 5fb059998011b669fdb0e71c7fee7d5e *tests/testthat/test-suggest_useful_links.R
 972f9ad99b87b96ec2cbf9f54be0b688 *tests/testthat/test-translateData.R
