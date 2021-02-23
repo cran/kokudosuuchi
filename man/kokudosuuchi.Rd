@@ -4,10 +4,15 @@
 \name{kokudosuuchi}
 \alias{kokudosuuchi}
 \alias{kokudosuuchi-package}
-\title{Kokudo Suuchi Joho - Download Japanese National Land Numerical Information}
+\title{Utilities for 'Kokudo Suuchi'}
 \description{
-Use the Kokudo Suuchi Joho API
+Provides utilities for 'Kokudo Suuchi', the GIS data service of the Japanese government.
+    See <https://nlftp.mlit.go.jp/index.html> for more information.
 }
 \seealso{
 \url{http://nlftp.mlit.go.jp/ksj/api/about_api.html}
+}
+\author{
+\strong{Maintainer}: Hiroaki Yutani \email{yutani.ini@gmail.com} (\href{https://orcid.org/0000-0002-3385-7233}{ORCID})
+
 }

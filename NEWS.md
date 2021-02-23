@@ -1,3 +1,12 @@
+# kokudosuuchi 1.0.0
+
+## Breaking change
+
+* kokudosuuchi drops all functionality related to the 'Kokudo Suuchi' API as the
+  API is no longer provided. Instead, a new function `readKSJdata()` is
+  implemented to make it ease to read various geospatial data provided by
+  'Kokudo Suuchi'.
+
 # kokudosuuchi 0.4.2
 
 * Fix errors due to the breaking change introduced in xml2 v1.2.0 (#6)
